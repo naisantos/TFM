@@ -4,7 +4,7 @@ En este documento aparecen los archivos de los diferentes programas y un breve r
 
 
 
-* download.sh -> Para descargar los archivos
+* H3K4me3_nRC_download.sh -> Para descargar los archivos
 * Count.sh -> Para mirar si coinciden el número de lecturas con las teóricas que nos mandan. En el archivo aparecen los comandos a utilizar tanto con los datos originales como con los recortados.
 * Trimming.sh -> Para poder hacer el recorte de los datos
 * fastqc.sh -> Llevar a cabo el control de calidad de los archivos
