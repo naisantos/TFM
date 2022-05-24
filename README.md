@@ -28,6 +28,8 @@ En este documento aparecen los archivos de los diferentes programas y un breve r
 
 
 
+Asimismo, también está subida la carpeta donde aparecen las funciones biológicas de los genes de los diferentes análisis. Entre ellos están la ChIP de adultos y neonatales, la RNA-seq de los neonatalaes, la intersección entre ChIP y RNA-seq de adultos y neonatales y superposición entre neonatales y adultos de los análisis de ChIP y RNA-seq. La carpeta donde están estos archivos se llama 'Ontologías génicas'. 
+
 
 
 
