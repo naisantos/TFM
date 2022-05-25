@@ -25,6 +25,8 @@ En este documento aparecen los archivos de los diferentes programas y un breve r
 * GOEA.R -> En uno de los archivos de GO y KEGG obtenidos gracias al anterior script, para que al lado del simibolo de los genes apareciesen también sus nombres
 * symbolgenes.oy -> Hacer librerias para acceder más fácil a los nombres de los genes
 * RNAChIP.R -> Integrar los datos de ChIP con RNA-seq, e intersecar los genes que se co-regulan y quedarnos con ellos. Además, creamos dos nuevos archivos para hacer el análisis de GO y KEGG. 
+* OverlapChIPRNA -> Intersecar los datos de neonatales y adultos obtenidos debido a los análisis de ChIP y RNA-seq. Tomamos solamente los genes que están regulados al alza en ambas situaciones.
+* OverlapChIP -> Intersecamos los datos de neonatales y adultos obtenidos al hacer el análisis ChIP, para saber qué genes están activos al alza y ver si existe esta memoria generacional. 
 
 
 
